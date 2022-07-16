@@ -1,16 +1,19 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://golden-trifle-7a6f73.netlify.app"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
+ignoreErrors: ["error-remote-getjson"]
 
 Paginate: 3
-disqusShortname: gurusabarish
-googleAnalytics: G-DWJJVE27WD
+disqusShortname: 
+googleAnalytics: 
 
 markup:
   goldmark:
     renderer:
       unsafe: true
+
+
 
 Menus:
   main:
