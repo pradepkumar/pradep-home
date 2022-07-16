@@ -1,6 +1,6 @@
-baseURL: "https://golden-trifle-7a6f73.netlify.app"
+baseURL: "https://pradep.netlify.app"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Pradep Kumar"
 theme: hugo-profile
 ignoreErrors: ["error-remote-getjson"]
 
@@ -48,8 +48,8 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "Pradep Kumar"
+  description: Pradep's web site
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -98,9 +98,9 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    title: "Pradep."
+    subtitle: "I like to learn new things"
+    content: "Full Stack Web Developer who likes gaming with friends. தமிழ் மீது தீரா காதல் கொண்டவன்"
     image: /images/hero.svg
     button:
       enable: true
